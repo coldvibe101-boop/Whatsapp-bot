@@ -1,0 +1,6 @@
+flask
+twilio
+anthropic
+replicate
+requests
+gunicorn
